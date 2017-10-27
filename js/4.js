@@ -1,3 +1,5 @@
+'use strict';
+
 var distanceRange = [10, 15, 20];
 var commonPriceResult = [];
 
