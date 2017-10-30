@@ -9,4 +9,4 @@ function count(n) {
   console.log(countResult);
 }
 
-count(3);
+count(5);
